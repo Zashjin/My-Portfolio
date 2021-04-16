@@ -1,0 +1,74 @@
+/* Link Colors */
+a:link    { color: lightgreen;}
+a:visited { color: darkgreen;}
+a:hover   { color: green;}
+a:active  { color: lawngreen;}
+
+/* class set up  */
+.center {
+  text-align: center
+}
+.dark-bg {
+  background: darkgreen;
+  color: white;
+}
+.wrapper {
+  width: 400px;
+  margin: auto;
+}
+
+
+/* external style changes */
+main h2 {
+  text-align: center;
+  color: black;
+  height: 5%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 36px;
+  margin-top: 20px;           
+  margin-bottom: 10px;        
+}
+hr {
+  width: 40px;
+}
+main h3 {
+  text-align: center;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  padding-top: 5px;   
+  margin: 1px;     
+}
+main h4 {
+  text-align: left;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding-top: 2px;   
+  margin: 0px;     
+}
+
+main p {
+  color: black;
+  font-family: arial;
+  text-decoration: none;
+  padding: 15px 20px;        
+  border-radius: 400px;       
+}
+
+main li {
+  color: black;
+  font-family: arial;
+  text-align: left;
+  padding: 2px 2px;        
+  border-radius: 400px
+
+
+
+
+
+
+
+
+
+
